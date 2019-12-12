@@ -11,7 +11,7 @@ environment:
 
 dependencies:
   analyzer: ^0.39.0
-  build: ^1.0.0
+  build: ^1.2.2
   code_builder: ^3.0.3
   collection: ^1.14.7
   dart_style: ^1.0.10
